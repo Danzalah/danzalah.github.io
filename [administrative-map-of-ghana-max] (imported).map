@@ -1,0 +1,18 @@
+<img src="[administrative-map-of-ghana-max] (imported)" width="742" height="1045" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:rayan    -->
+<area shape="poly" coords="114,69,117,255,275,229,308,66" alt="upperW"  nohref="nohref" />
+<area shape="poly" coords="320,69,317,137,512,111,519,56,517,58" alt="upperE"  nohref="nohref" />
+<area shape="poly" coords="126,263,143,394,214,490,260,393,362,403,358,499,408,462,501,462,590,349,565,162,504,123,319,163,279,238" alt="Northern"  nohref="nohref" />
+<area shape="poly" coords="151,424,162,492,76,656,157,750,206,600,323,568,421,580,543,637,496,522,403,483,369,525,328,471,328,414,253,439,271,478,208,502" alt="Brong"  nohref="nohref" />
+<area shape="poly" coords="59,668,58,772,130,965,292,939,200,794,191,756,154,761" alt="Western"  nohref="nohref" />
+<area shape="poly" coords="690,795,597,678,612,448,565,422,494,495,570,630,548,792,661,844,661,845,664,845" alt="Volta"  nohref="nohref" />
+<area shape="poly" coords="454,856,529,826,607,824,616,846,555,847,511,878,499,879,478,885" alt="Greater A"  nohref="nohref" />
+<area shape="poly" coords="211,786,323,947,464,898,325,840,294,833,272,831" alt="Central"  nohref="nohref" />
+
+</map>
